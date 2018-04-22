@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Michael Z. Tillger Portfolio</title>
+    <link>mrtillger.github.io/home/</link>
+    <description>Recent content in Homes on Michael Z. Tillger Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="mrtillger.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>mrtillger.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>mrtillger.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/about/</guid>
+      <description> Biography </description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>mrtillger.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>mrtillger.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>mrtillger.github.io/home/certifications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/certifications/</guid>
+      <description>   Pennsylvania     Elementary Education K-6   English 6-9   Social Studies 6-9   Science 6-9   Business, Computers, &amp;amp; Information Technology PK-12   Summer 2018: Instructional Technology Specialist PK-12    </description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>mrtillger.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>mrtillger.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/teaching/</guid>
+      <description>Computer Technology Teacher - September 2010 - Present | Wallenpaupack Area SD (Hawley, PA)
+ Instruct over 480 students annually in 6th, 7th, and 8th grade in the operation and application of Microsoft Windows OS and Word, Excel, and PowerPoint monitoring their success through testing exceeding the school’s targeted 80% class proficiency rate by 15% or more.
+ Success is derived through fostering a classroom environment conducive to learning and promoting excellent student/teacher interaction in conjunction with developing and implementing daily and unit lesson plans, administering projects and evaluations, and analyzing student performance to continuously improve the proficiency level.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>mrtillger.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>mrtillger.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>mrtillger.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>mrtillger.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

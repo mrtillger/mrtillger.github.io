@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Z. Tillger Portfolio on Michael Z. Tillger Portfolio</title>
+    <link>mrtillger.github.io/</link>
+    <description>Recent content in Michael Z. Tillger Portfolio on Michael Z. Tillger Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="mrtillger.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instructional Technology Portfolio</title>
+      <link>mrtillger.github.io/project/portfolio/</link>
+      <pubDate>Fri, 20 Apr 2018 14:44:17 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/project/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old Blogspot Posts</title>
+      <link>mrtillger.github.io/post/old_blog/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/post/old_blog/</guid>
+      <description>&lt;p&gt;The title says it all, folks. But in case you missed it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;My old blogposts can be found &lt;a href=&#34;http://mrtillger.blogspot.com/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Check back here for my new posts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>mrtillger.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>mrtillger.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>mrtillger.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>mrtillger.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>mrtillger.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
